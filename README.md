@@ -1,8 +1,12 @@
-### Hi there 👋
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header"/>
+
+### Hey! Welcome to my profile <img src="https://github.com/MartinHeinz/MartinHeinz/blob/master/wave.gif" width="30px">
+
 
 <!--
 **GeorgeTsio/GeorgeTsio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
