@@ -8,12 +8,14 @@ International Hellenic University (IHU).
 </i>
 </p>
 
+<i>
 🎯My main interests:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    👉Machine/Deep learning problems in health domain<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    👉Bioinformatic analysis
 <br>
 💬My current moto:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   "Work hard in silence, let your success make the noise" (I have no idea you said this 🙄)
+</i>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/giorgos-tsionkis">
