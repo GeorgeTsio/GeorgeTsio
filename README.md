@@ -8,12 +8,6 @@ International Hellenic University (IHU).
 </i>
 </p>
 
-<p align="center">
-  <a href="https://github.com/GeorgeTsio">
-    <img src="https://komarev.com/ghpvc/?username=GeorgeTsio&color=blue&style=flat)" />
-  </a>
-</p>
-
 <!--
 =======================PROGRAMMING=======================
 -->
@@ -45,9 +39,11 @@ International Hellenic University (IHU).
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/GeorgeTsio)
 -->
 
-
-
-
+<p align="center">
+  <a href="https://github.com/GeorgeTsio">
+    <img src="https://komarev.com/ghpvc/?username=GeorgeTsio&color=blue&style=flat)" />
+  </a>
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer"/>
 
