@@ -7,6 +7,14 @@ programme offered by the Aristotle University of Thessaloniki (AUTH) in collabor
 International Hellenic University (IHU). 
 </i>
 </p>
+
+🎯My main interests:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    👉Machine/Deep learning problems in health domain<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    👉Bioinformatic analysis
+<br>
+💬My current moto:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   "Work hard in silence, let your success make the noise" (I have no idea you said this 🙄)
+
 <p align="center">
     <a href="https://www.linkedin.com/in/giorgos-tsionkis">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
@@ -15,13 +23,6 @@ International Hellenic University (IHU).
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
     </a>
 </p>
-
-🎯My main interests:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    👉Machine/Deep learning problems in health domain<br>
-&nbsp;&nbsp;&nbsp;&nbsp;    👉Bioinformatic analysis
-<br>
-💬My current moto:<br>
-    "Work hard in silence, let your success make the noise" (I have no idea you said this 🙄)
 
 
 <!--
