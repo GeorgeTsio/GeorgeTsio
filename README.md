@@ -8,8 +8,11 @@ International Hellenic University (IHU).
 </i>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=GeorgeTsio&color=blue&style=flat)" />
-
+<p align="center">
+  <a href="https://github.com/GeorgeTsio">
+    <img src="https://komarev.com/ghpvc/?username=GeorgeTsio&color=blue&style=flat)" />
+  </a>
+</p>
 <!--
 **GeorgeTsio/GeorgeTsio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
