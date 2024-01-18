@@ -17,8 +17,8 @@ International Hellenic University (IHU).
 </p>
 
 🎯My main interests:<br>
-&nbsp&nbsp&nbsp&nbsp&nbsp    👉Machine/Deep learning problems in health domain<br>
-&nbsp&nbsp&nbsp&nbsp    👉Bioinformatic analysis
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    👉Machine/Deep learning problems in health domain<br>
+&nbsp;&nbsp;&nbsp;&nbsp;    👉Bioinformatic analysis
 <br>
 💬My current moto:<br>
     "Work hard in silence, let your success make the noise" (I have no idea you said this 🙄)
