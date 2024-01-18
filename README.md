@@ -7,10 +7,10 @@ programme offered by the Aristotle University of Thessaloniki (AUTH) in collabor
 International Hellenic University (IHU). 
 <br>
 🎯My main interests:
-    👉Machine/Deep learning problems in health domain
+    👉Machine/Deep learning problems in health domain<br>
     👉Bioinformatic
 <br>
-💬My current moto:
+💬My current moto:<br>
     "Work hard in silence, let your success make the noise" (I have no idea you said this 🙄)
 </i>
 </p>
