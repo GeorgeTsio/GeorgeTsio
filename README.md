@@ -14,7 +14,7 @@ International Hellenic University (IHU).
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    👉Bioinformatic analysis
 <br>
 💬My current moto:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   "Work hard in silence, let your success make the noise" (I have no idea you said this 🙄)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   "Work hard in silence, let your success make the noise" (I have no idea who said this 🙄)
 </i>
 
 
