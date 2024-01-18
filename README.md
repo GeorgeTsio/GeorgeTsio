@@ -6,7 +6,7 @@ My name is <strong><i>George Tsionkis</i></strong> and I am an MSc student from 
 programme offered by the Aristotle University of Thessaloniki (AUTH) in collaboration with the 
 International Hellenic University (IHU). 
 <br>
-🎯My main interests:
+🎯My main interests:<br>
     👉Machine/Deep learning problems in health domain<br>
     👉Bioinformatic
 <br>
