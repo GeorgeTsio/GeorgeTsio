@@ -11,7 +11,7 @@ International Hellenic University (IHU).
 <!--
 **GeorgeTsio/GeorgeTsio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+<img src="https://komarev.com/ghpvc/?username=GeorgeTsio&color=blue&style=flat)" />
 
 Here are some ideas to get you started:
 
