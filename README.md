@@ -17,6 +17,7 @@ International Hellenic University (IHU).
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   "Work hard in silence, let your success make the noise" (I have no idea you said this 🙄)
 </i>
 
+<br>
 <p align="center">
     <a href="https://www.linkedin.com/in/giorgos-tsionkis">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
