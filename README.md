@@ -7,6 +7,15 @@ programme offered by the Aristotle University of Thessaloniki (AUTH) in collabor
 International Hellenic University (IHU).
 </i>
 </p>
+<p align="center">
+    <a href="https://www.linkedin.com/in/giorgos-tsionkis">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
+    <a href="mailto:tsiogeo20@gmail.com">
+        <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
+    </a>
+</p>
+
 
 
 <!--
