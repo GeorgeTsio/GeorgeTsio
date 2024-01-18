@@ -1,7 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header"/>
 
+<p align="center">
 Hey! Welcome to my profile <img src="https://github.com/MartinHeinz/MartinHeinz/blob/master/wave.gif" width="30px">
 
+<br>
+I am an MSc student from Thessaloniki, Greece, following the “Applied Bioinformatics” MSc 
+programme offered by the Aristotle University of Thessaloniki (AUTH) in collaboration with the 
+International Hellenic University (IHU).
+</p>
 
 <!--
 **GeorgeTsio/GeorgeTsio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
