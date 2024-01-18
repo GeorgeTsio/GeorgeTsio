@@ -22,7 +22,16 @@ International Hellenic University (IHU).
 ### <img src="https://cdn-icons-png.flaticon.com/128/2463/2463510.png" alt="bio logo" width="30" height="30" /> Programming
 | <img src="https://cdn-icons-png.flaticon.com/128/1815/1815759.png" alt="bio logo" width="30" height="30" /> Toolbox | <img src="https://cdn-icons-png.flaticon.com/128/4429/4429903.png" alt="bio logo" width="30" height="30" /> OS | <img src="https://cdn-icons-png.flaticon.com/512/3079/3079998.png" alt="bio logo" width="30" height="30" /> IDEs |
 |:-----------: | :------------: | :------------:|
-| [![R](https://img.shields.io/badge/r-black?style=for-the-badge&logo=r&logoColor=blue&labelColor=black)](https://github.com/Angelos-GK) [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/GeorgeTsio) [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/GeorgeTsio) [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Angelos-GK) [![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/GeorgeTsio)     | [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/GeorgeTsio) [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/GeorgeTsio)     | [![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=Visual%20Studio%20Code&color=black)](https://github.com/GeorgeTsio) [![RStudio](https://img.shields.io/badge/RStudio-black?style=for-the-badge&logo=RStudio&color=black)](https://github.com/GeorgeTsio) [![Jupyter](https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=Jupyter&color=black)](https://github.com/GeorgeTsio)
+| [![R](https://img.shields.io/badge/r-black?style=for-the-badge&logo=r&logoColor=blue&labelColor=black)](https://github.com/GeorgeTsio)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/GeorgeTsio)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/GeorgeTsio)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/GeorgeTsio)
+[![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/GeorgeTsio)
+| [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/GeorgeTsio)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/GeorgeTsio)
+| [![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=Visual%20Studio%20Code&color=black)](https://github.com/GeorgeTsio)
+[![RStudio](https://img.shields.io/badge/RStudio-black?style=for-the-badge&logo=RStudio&color=black)](https://github.com/GeorgeTsio)
+[![Jupyter](https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=Jupyter&color=black)](https://github.com/GeorgeTsio)
 
 
 <!--
