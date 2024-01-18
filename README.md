@@ -6,11 +6,11 @@ My name is <strong><i>George Tsionkis</i></strong> and I am an MSc student from 
 programme offered by the Aristotle University of Thessaloniki (AUTH) in collaboration with the 
 International Hellenic University (IHU). 
 <br>
-    🎯My main interests:
-    Machine/Deep learning problems in health domain
-    Bioinformatic
+🎯My main interests:
+    👉Machine/Deep learning problems in health domain
+    👉Bioinformatic
 <br>
-    💬My current moto:
+💬My current moto:
     "Work hard in silence, let your success make the noise" (I have no idea you said this 🙄)
 </i>
 </p>
