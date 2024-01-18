@@ -8,10 +8,10 @@ International Hellenic University (IHU).
 </i>
 </p>
 
+
 <!--
 =======================PROGRAMMING=======================
 -->
-
 
 ---
 ### <img src="https://cdn-icons-png.flaticon.com/128/2463/2463510.png" alt="bio logo" width="30" height="30" /> Programming
@@ -39,6 +39,7 @@ International Hellenic University (IHU).
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/GeorgeTsio)
 -->
 
+<br>
 <p align="center">
   <a href="https://github.com/GeorgeTsio">
     <img src="https://komarev.com/ghpvc/?username=GeorgeTsio&color=blue&style=flat)" />
