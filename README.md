@@ -4,7 +4,12 @@
 <br>
 My name is <strong><i>George Tsionkis</i></strong> and I am an MSc student from Thessaloniki, Greece, following the “Applied Bioinformatics” MSc 
 programme offered by the Aristotle University of Thessaloniki (AUTH) in collaboration with the 
-International Hellenic University (IHU).
+International Hellenic University (IHU). 
+:dart:My main interests:
+    Machine/Deep learning problems in health domain
+    Bioinformatic
+:speech_balloon:My current moto:
+    "Work hard in silence, let your success make the noise" (I have no idea you said this :roll_eyes:)
 </i>
 </p>
 <p align="center">
