@@ -16,12 +16,12 @@ International Hellenic University (IHU).
     </a>
 </p>
 
-<i>🎯My main interests:<br>
+🎯My main interests:<br>
     👉Machine/Deep learning problems in health domain<br>
     👉Bioinformatic
 <br>
 💬My current moto:<br>
-    "Work hard in silence, let your success make the noise" (I have no idea you said this 🙄)</i>
+    "Work hard in silence, let your success make the noise" (I have no idea you said this 🙄)
 
 
 <!--
