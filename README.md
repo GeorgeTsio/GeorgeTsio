@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header"/>
 
-### Hey! Welcome to my profile <img src="https://github.com/MartinHeinz/MartinHeinz/blob/master/wave.gif" width="30px">
+## Hey! Welcome to my profile <img src="https://github.com/MartinHeinz/MartinHeinz/blob/master/wave.gif" width="30px">
 
 
 <!--
