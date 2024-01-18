@@ -2,7 +2,7 @@
 <p align="center">
 Hey! Welcome to my profile <img src="https://github.com/MartinHeinz/MartinHeinz/blob/master/wave.gif" width="30px">
 <br>
-My name is George Tsionkis and I am an MSc student from Thessaloniki, Greece, following the “Applied Bioinformatics” MSc 
+My name is <strong><i>George Tsionkis</i></strong> and I am an MSc student from Thessaloniki, Greece, following the “Applied Bioinformatics” MSc 
 programme offered by the Aristotle University of Thessaloniki (AUTH) in collaboration with the 
 International Hellenic University (IHU).
 </p>
